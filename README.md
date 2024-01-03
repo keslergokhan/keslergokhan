@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gökhan KESLER</h1>
-<h3 align="center">A young software developer who loves programming</h3>
+<h3 align="center">I first met software in high school, like many software developers, the word 'Hello World' changed my life. Software became not only a job for me, but also a hobby. At every stage of my life, I took care to improve myself and spend time in this field.
+I hope there are things on my page that you will enjoy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keslergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="keslergokhan" /> </p>
 
